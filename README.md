@@ -3,12 +3,12 @@
 
 This tool allow to install automatic install coder tools with python3
 ## Features
-
+```sh
 -Update System 
 -Upgrade System
 -Install Code editor
 -Install Programming Language
-
+```
 ## Tech
 
 Coder Tools is built on just Python 
