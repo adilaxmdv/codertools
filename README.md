@@ -14,8 +14,7 @@ This tool allow to install automatic install coder tools with python3
 Coder Tools is built on just Python 
 - [Python](python.org) - Backend Tools !
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+on GitHub.
 
 ## Installation
 
