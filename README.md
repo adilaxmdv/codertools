@@ -12,7 +12,7 @@ This tool allow to install automatic install coder tools with python3
 ## Tech
 
 Coder Tools is built on just Python 
-- [Python.org] - Backend Tools !
+- [Python](python.org) - Backend Tools !
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
