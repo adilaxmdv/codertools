@@ -4,7 +4,10 @@ import getpass
 
 print("ProgrammingTools")
 print("Code By > https://github.com/adilaxmdv")
-print("Please Run Root!")
+userchk = os.popen("id -u").read().strip("\n")
+if int(userchk) != 0:
+  print("Please run script as root, Aborting!")
+  exit()
 time.sleep(3)
 os.system("clear")
 print(">>>Main Page")
