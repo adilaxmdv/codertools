@@ -12,8 +12,8 @@ This tool allow to install automatic install coder tools with python3
 ## Tech
 
 Coder Tools is built on just Python 
-- [Python](python.org) - Backend Tools !
-
+- [Python](https://www.python.org/) - Backend Tools !
+- Visual Studio Code - Editor !
 on GitHub.
 
 ## Installation
