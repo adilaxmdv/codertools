@@ -18,7 +18,7 @@ on GitHub.
 
 ## Installation
 
-CoderTools requires [python](python.org) 3.0+ run
+CoderTools requires [python](https://www.python.org/) 3.0+ run
 
 installation
 ```sh
