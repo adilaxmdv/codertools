@@ -51,7 +51,7 @@ elif slct == 3:
     1)Python
     2)Php
     3)C
-    4)Cpp
+    4)C++
     5)Golang
     6)Ruby
     """)
